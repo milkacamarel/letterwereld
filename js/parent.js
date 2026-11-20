@@ -289,7 +289,7 @@ export function mountParent(root, { onExit, forgetPhoto }) {
         catch (e) { msg.textContent = e.message; }
       };
       body.querySelector(".join").onclick = () => doLink(body.querySelector(".code-in").value);
-      body.querySelector(".code-in").onkeydown = (e) => e.key === "Enter" && doLink(e.target.value);
+      body.querySelector(".code-in").onkeydown = (e) => { if (e.key === "Enter") doLink(e.target.value); };
       body.querySelector(".make").onclick = () => doLink(sync.newCode());
       return;
     }

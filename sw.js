@@ -1,5 +1,5 @@
 // Offline werken (alleen actief via https): app-bestanden uit de cache, opnames uit het netwerk als dat kan.
-const CACHE = "letterwereld-1795139886";
+const CACHE = "letterwereld-1795143105";
 const FILES = ["./", "index.html", "css/app.css", "manifest.webmanifest", "icons/icon.svg", "icons/icon-180.png",
   "js/app.js", "js/art.js", "js/audio.js", "js/engine.js", "js/glyph.js", "js/letters.js", "js/parent.js", "js/store.js",
   "js/sync.js", "js/trace.js", "js/words.js", "stem/audio-manifest.json"];
