@@ -23,7 +23,9 @@ export function mountTrace(root, opts) {
   const tracer = new Tracer(L, TOLERANCES[state.settings.sensitivity] || TOLERANCES.gebalanceerd);
   // Zo groot mogelijk: de kelder alleen tonen als de letter daar komt (g, j, p, q, y).
   const vbTop = -45, vbH = (L.maxY > 215 ? 345 : 250) - vbTop;
-  const vbW = Math.max(L.width + 120, 250);
+  // Telefoon rechtop (smal en hoog): minder ruimte opzij, zodat de letter de breedte vult.
+  const tall = innerHeight > innerWidth * 1.4;
+  const vbW = Math.max(L.width + (tall ? 64 : 120), tall ? 170 : 250);
   const vbX = L.width / 2 - vbW / 2;
 
   root.innerHTML = `

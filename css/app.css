@@ -286,3 +286,100 @@ button { font: inherit; color: inherit; border: 0; background: none; cursor: poi
   border: 2px solid #EADFF8; width: 15ch; color: var(--ink); background: var(--cream); }
 .code-in:focus { outline: none; border-color: var(--pink); }
 .bigcode { font-size: 34px; font-weight: 800; letter-spacing: .14em; color: var(--purple); margin: 4px 0 8px; -webkit-user-select: all; user-select: all; }
+
+/* ---------- telefoon rechtop: bediening in een balk bovenaan, zodat de letter de volle breedte krijgt.
+   De linkerhand rust onder het schrijfpunt, dus bovenaan zit de bediening ook buiten de hand. */
+@media (max-width: 600px) and (orientation: portrait) {
+  :root { --side: 0px; }
+  .side { display: contents; }
+  .side-mascot { width: auto; max-width: none; display: flex; align-items: center; gap: 8px; min-width: 0; }
+  .side-mascot .mascot { width: 50px; flex: none; }
+  .side .bubble { position: static; width: auto; flex: 1; min-width: 0; font-size: 14px; padding: 7px 10px; text-align: left; box-shadow: 0 2px 8px rgba(123, 79, 216, .15); }
+  .side .home { align-self: center; justify-self: end; }
+  .btn-round { width: 50px; height: 50px; font-size: 22px; }
+
+  /* schrijfplek: [voorbeeld · diertje · terug] [stappen · knoppen · niveaus] [letter] */
+  .trace-screen { display: grid; grid-template-columns: auto 1fr auto; grid-template-rows: auto auto minmax(0, 1fr);
+    grid-template-areas: "model mascot home" "pips btns levels" "canvas canvas canvas"; gap: 6px 10px; padding: 8px 10px 0; align-items: center; }
+  .trace-screen .canvas-wrap { position: relative; inset: auto; grid-area: canvas; min-height: 0; height: 100%; }
+  .trace-screen .model { grid-area: model; width: auto; height: min(64px, 9vh); padding: 2px; border-radius: 12px; }
+  .trace-screen .model .glyph { height: 100%; width: auto; }
+  .trace-screen .side-mascot { grid-area: mascot; }
+  .trace-screen .home { grid-area: home; }
+  .trace-screen .pips { grid-area: pips; }
+  .trace-screen .side-btns { grid-area: btns; display: flex; justify-content: center; margin: 0; gap: 8px; }
+  .trace-screen .levels { grid-area: levels; }
+
+  /* letterpagina: [diertje · terug] [letter + klank] [woorden onder elkaar] [schrijfknoppen] */
+  .letter-page { display: grid; grid-template-columns: 1fr auto; grid-template-rows: auto minmax(0, 1fr) auto;
+    grid-template-areas: "mascot home" "main main" "write write"; gap: 6px 10px; padding: 8px 12px 10px; }
+  .letter-page .side-mascot { grid-area: mascot; } .letter-page .home { grid-area: home; }
+  .lp-main { position: static; grid-area: main; padding: 0; gap: 10px; justify-content: flex-start; overflow-y: auto; min-height: 0; }
+  .lp-head { flex-direction: row; gap: 12px; }
+  .lp-glyph { height: auto; width: 58%; flex: none; }
+  .lp-sound { flex-direction: column; gap: 10px; } .lp-sound .btn-pill { min-height: 46px; padding: 0 14px; font-size: 16px; }
+  .words { grid-template-columns: 1fr; gap: 8px; }
+  .word-card { flex-direction: row; padding: 8px 14px 8px 8px; gap: 14px; border-radius: 22px; }
+  .word-card .pic { width: 34%; flex: none; aspect-ratio: 1.3; border-radius: 16px; }
+  .word-card .pic-emoji { font-size: min(13vw, 9vh); }
+  .word-card .wtext { font-size: 26px; }
+  .lp-side .write-btns { grid-area: write; flex-direction: row; justify-content: center; gap: 14px; margin: 0; }
+  .btn-write { max-width: none; width: min(36vw, 15vh); height: min(36vw, 15vh); }
+
+  /* gelukt: [tekening + lof] [knoppen in een rij] */
+  .success { display: grid; grid-template-columns: repeat(4, auto); grid-template-rows: auto minmax(0, 1fr) auto;
+    justify-content: center; align-items: center; padding: 8px 12px 14px; gap: 8px; }
+  .succ-side .side-mascot, .succ-main { grid-column: 1 / -1; }
+  .succ-side .side-mascot { grid-row: 1; margin: 0; }
+  .succ-main { position: static; grid-row: 2; padding: 0; min-height: 0; height: 100%; gap: 8px; }
+  .succ-letter { flex: 1 1 0; min-height: 0; height: auto; width: auto; max-width: 80vw; }
+  .praise { font-size: 26px; } .new-trophy { font-size: 16px; padding: 6px 14px 6px 8px; } .new-trophy .tr-art { width: 48px; }
+  .succ-side .btn-act, .succ-side .home { grid-row: 3; }
+  .succ-side .btn-act { width: auto; min-width: 0; min-height: 64px; padding: 0 10px; font-size: 13px; border-radius: 20px; }
+  .succ-side .home { align-self: center; }
+
+  .welcome { gap: 1.2vh; padding: 66px 12px 12px; } .corner { top: 10px; right: 10px; gap: 10px; }
+  .title { font-size: clamp(28px, 8.4vw, 40px); }
+  .hero { width: min(24vh, 210px); } .slogan { font-size: 16px; }
+  .btn-big { min-height: 64px; font-size: 22px; } .btn-mid { min-height: 54px; font-size: 17px; padding: 0 18px; } .menu { gap: 12px; }
+  .shelf { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; padding: 10px 14px 24px; }
+  .tiles { grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 10px; padding: 8px 14px 24px; }
+  .abc { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); padding: 8px 14px 24px; }
+}
+
+/* ---------- telefoon gekanteld (weinig hoogte): compacte zijkolom, voorbeeldletter weg (de grote letter staat er al) */
+@media (max-height: 520px) and (orientation: landscape) {
+  :root { --side: clamp(128px, 17vw, 168px); }
+  .side { padding: 8px 8px; gap: 8px; }
+  .btn-round { width: 46px; height: 46px; font-size: 20px; }
+  .side-mascot { width: 56px; position: static; }
+  .side .bubble { position: absolute; top: 10px; right: calc(100% + 8px); left: auto; width: max-content; max-width: 260px; font-size: 14px; text-align: left; }
+  .side .home { position: absolute; top: 8px; right: 8px; }
+  .side-mascot { align-self: flex-start; }
+  .trace-screen .model { display: none; }
+  .side-btns { margin-top: auto; gap: 8px; } .btn-side { width: 48px; height: 48px; font-size: 22px; border-radius: 16px; }
+  .lvl { width: 34px; height: 34px; font-size: 17px; } .levels { gap: 3px; padding: 4px; }
+  .bar { padding: 8px 14px 4px 20px; } .bar h2 { font-size: 24px; }
+
+  .lp-main { padding: 8px 16px; gap: 8px; }
+  .lp-glyph { height: 35vh; }
+  .lp-sound .btn-pill { min-height: 44px; }
+  .words { gap: 10px; } .word-card { padding: 8px; gap: 4px; border-radius: 20px; }
+  .word-card .pic { aspect-ratio: auto; height: 23vh; border-radius: 14px; }
+  .word-card .pic-emoji { font-size: 15vh; } .wtext { font-size: 20px; }
+  .note { font-size: 13px; line-height: 1.2; }
+  .lp-side .write-btns { gap: 10px; margin-bottom: 0; }
+  .btn-write { width: min(100%, 31vh); height: min(128px, 31vh); max-width: 31vh; }
+
+  .succ-letter { height: 58vh; } .praise { font-size: 26px; } .new-trophy { font-size: 16px; padding: 6px 14px 6px 8px; } .new-trophy .tr-art { width: 48px; }
+  .succ-side { gap: 8px; padding-top: 62px; } .succ-side .side-mascot { margin: 0; }
+  .btn-act { min-height: 54px; font-size: 13px; border-radius: 18px; } .btn-act .ic { font-size: 22px; }
+  .succ-side .home { position: absolute; top: 8px; right: 8px; }
+
+  .welcome { gap: 6px; padding: 10px; }
+  .title { font-size: 30px; } .title span { display: inline; } .slogan { display: none; }
+  .hero { width: 24vh; } .hero .bubble { left: 105%; top: 10%; }
+  .menu { gap: 10px; margin: 0; } .btn-big { min-height: 58px; font-size: 22px; padding: 0 30px; } .btn-mid { min-height: 50px; font-size: 17px; padding: 0 20px; }
+  .corner { top: 10px; right: 10px; }
+  .shelf { gap: 12px; padding: 8px 20px 20px; } .trophy .tr-art { width: 42%; }
+}
