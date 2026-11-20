@@ -1,0 +1,1934 @@
+[
+ {
+  "id": "welkom_1",
+  "groep": "Welkom en kiezen",
+  "tekst": "Welkom terug in jouw magische letterwereld, Meadow!",
+  "tip": "blij, alsof ze binnenkomt",
+  "prioriteit": 1
+ },
+ {
+  "id": "welkom_2",
+  "groep": "Welkom en kiezen",
+  "tekst": "Hallo Meadow! Welke letter gaan we vandaag ontdekken?",
+  "tip": "nieuwsgierig",
+  "prioriteit": 1
+ },
+ {
+  "id": "kies_letter",
+  "groep": "Welkom en kiezen",
+  "tekst": "Kies maar een letter.",
+  "tip": "rustig",
+  "prioriteit": 1
+ },
+ {
+  "id": "kies_groot_klein",
+  "groep": "Welkom en kiezen",
+  "tekst": "Tik op de grote letter, of op de kleine letter.",
+  "tip": "langzaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "mijn_alfabet",
+  "groep": "Welkom en kiezen",
+  "tekst": "Dit is jouw alfabet. Kijk eens hoeveel letters je al kunt!",
+  "tip": "trots",
+  "prioriteit": 2
+ },
+ {
+  "id": "mijn_trofeeen",
+  "groep": "Welkom en kiezen",
+  "tekst": "Dit zijn al jouw trofeeën!",
+  "tip": "trots",
+  "prioriteit": 2
+ },
+ {
+  "id": "tik_plaatje",
+  "groep": "Welkom en kiezen",
+  "tekst": "Tik op een plaatje. Dan hoor je het woord.",
+  "tip": "uitleggend",
+  "prioriteit": 1
+ },
+ {
+  "id": "klank_verschilt",
+  "groep": "Welkom en kiezen",
+  "tekst": "Een letter klinkt niet in elk woord hetzelfde. Luister maar!",
+  "tip": "voor c, q, x, y",
+  "prioriteit": 2
+ },
+ {
+  "id": "tot_ziens",
+  "groep": "Welkom en kiezen",
+  "tekst": "Tot de volgende keer, Meadow!",
+  "tip": "warm",
+  "prioriteit": 2
+ },
+ {
+  "id": "voordoen",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Kijk eerst goed. Het vingertje doet het voor.",
+  "tip": "langzaam, zachtjes",
+  "prioriteit": 1
+ },
+ {
+  "id": "nu_jij",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Nu jij!",
+  "tip": "aanmoedigend",
+  "prioriteit": 1
+ },
+ {
+  "id": "roze_stip",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Meadow, zet je vingertje op de roze stip!",
+  "tip": "duidelijk",
+  "prioriteit": 1
+ },
+ {
+  "id": "begin_stipje",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Begin maar bij het roze stipje.",
+  "tip": "rustig",
+  "prioriteit": 1
+ },
+ {
+  "id": "volg_sterretjes",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Volg de sterretjes!",
+  "tip": "vrolijk",
+  "prioriteit": 1
+ },
+ {
+  "id": "til_op",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Til je vingertje maar op.",
+  "tip": "rustig, even pauze erna",
+  "prioriteit": 1
+ },
+ {
+  "id": "volgende_stip",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Zet je vingertje op het volgende stipje.",
+  "tip": "duidelijk",
+  "prioriteit": 1
+ },
+ {
+  "id": "nog_een_lijn",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Nog één lijntje!",
+  "tip": "spannend",
+  "prioriteit": 1
+ },
+ {
+  "id": "zonder_pijltjes",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Probeer het nu eens zonder pijltjes.",
+  "tip": "uitdagend, vrolijk",
+  "prioriteit": 1
+ },
+ {
+  "id": "weet_je_nog",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Weet je nog hoe het ging? Begin bij het stipje.",
+  "tip": "rustig",
+  "prioriteit": 2
+ },
+ {
+  "id": "nog_eens_voordoen",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "Kijk, ik doe het nog één keer voor.",
+  "tip": "geduldig",
+  "prioriteit": 1
+ },
+ {
+  "id": "opnieuw",
+  "groep": "Voordoen en zelf doen",
+  "tekst": "We beginnen opnieuw. Dat is helemaal goed.",
+  "tip": "geruststellend",
+  "prioriteit": 1
+ },
+ {
+  "id": "niveau_1",
+  "groep": "Niveaus",
+  "tekst": "Magisch volgen! Volg de lijn met de pijltjes.",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "niveau_2",
+  "groep": "Niveaus",
+  "tekst": "Zelf proberen! De pijltjes komen als je ze nodig hebt.",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "niveau_3",
+  "groep": "Niveaus",
+  "tekst": "Letterkampioen! Weet jij de weg nog?",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "niveau_hoger",
+  "groep": "Niveaus",
+  "tekst": "Wil je het nu wat moeilijker proberen?",
+  "tip": "luchtig, geen druk",
+  "prioriteit": 2
+ },
+ {
+  "id": "richting_beneden",
+  "groep": "Richting",
+  "tekst": "Naar beneden.",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "richting_rechts",
+  "groep": "Richting",
+  "tekst": "Naar deze kant.",
+  "tip": "de pijl wijst het aan: links/rechts is op 5 jaar nog lastig",
+  "prioriteit": 1
+ },
+ {
+  "id": "richting_omhoog",
+  "groep": "Richting",
+  "tekst": "Omhoog.",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "richting_schuin",
+  "groep": "Richting",
+  "tekst": "Schuin naar beneden.",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "richting_schuin_omhoog",
+  "groep": "Richting",
+  "tekst": "Schuin omhoog.",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "richting_rondje",
+  "groep": "Richting",
+  "tekst": "Een rondje. Volg de pijl.",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "richting_boogje",
+  "groep": "Richting",
+  "tekst": "Een boogje.",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "richting_slangetje",
+  "groep": "Richting",
+  "tekst": "Een slangetje.",
+  "tip": "voor de s",
+  "prioriteit": 2
+ },
+ {
+  "id": "richting_haakje",
+  "groep": "Richting",
+  "tekst": "Een haakje.",
+  "tip": "voor f, j, g",
+  "prioriteit": 2
+ },
+ {
+  "id": "richting_puntje",
+  "groep": "Richting",
+  "tekst": "Zet er een puntje op.",
+  "tip": "voor i en j",
+  "prioriteit": 1
+ },
+ {
+  "id": "bijna_stip",
+  "groep": "Bijna! (vriendelijke hulp)",
+  "tekst": "Bijna! We beginnen bij het roze stipje.",
+  "tip": "zacht, glimlachend",
+  "prioriteit": 1
+ },
+ {
+  "id": "andere_kant",
+  "groep": "Bijna! (vriendelijke hulp)",
+  "tekst": "Oeps, de andere kant op. Kijk maar naar de pijl.",
+  "tip": "speels",
+  "prioriteit": 1
+ },
+ {
+  "id": "dicht_bij_lijn",
+  "groep": "Bijna! (vriendelijke hulp)",
+  "tekst": "Blijf maar dicht bij de lijn.",
+  "tip": "rustig",
+  "prioriteit": 1
+ },
+ {
+  "id": "vinger_weg",
+  "groep": "Bijna! (vriendelijke hulp)",
+  "tekst": "Je vingertje ging even weg. Begin weer bij het stipje.",
+  "tip": "geruststellend",
+  "prioriteit": 1
+ },
+ {
+  "id": "eerst_dit_stipje",
+  "groep": "Bijna! (vriendelijke hulp)",
+  "tekst": "Eerst dit stipje.",
+  "tip": "wijzend",
+  "prioriteit": 1
+ },
+ {
+  "id": "samen",
+  "groep": "Bijna! (vriendelijke hulp)",
+  "tekst": "Rustig aan. We doen het samen.",
+  "tip": "na een paar keer bijna",
+  "prioriteit": 2
+ },
+ {
+  "id": "inzet_1",
+  "groep": "Compliment voor inzet",
+  "tekst": "Wat goed dat je het nog eens probeert!",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "inzet_2",
+  "groep": "Compliment voor inzet",
+  "tekst": "Je volgt de lijn al heel mooi!",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "inzet_3",
+  "groep": "Compliment voor inzet",
+  "tekst": "Je hebt goed opgelet waar je moest beginnen!",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "inzet_4",
+  "groep": "Compliment voor inzet",
+  "tekst": "Goed zo, je gaat de goede kant op!",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "inzet_5",
+  "groep": "Compliment voor inzet",
+  "tekst": "Mooi rustig gedaan!",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "inzet_6",
+  "groep": "Compliment voor inzet",
+  "tekst": "Jij zet echt goed door!",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "inzet_7",
+  "groep": "Compliment voor inzet",
+  "tekst": "Dat lijntje is al klaar!",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "gelukt_1",
+  "groep": "Gelukt!",
+  "tekst": "Jaaa, gelukt!",
+  "tip": "uitbundig maar kort",
+  "prioriteit": 1
+ },
+ {
+  "id": "gelukt_2",
+  "groep": "Gelukt!",
+  "tekst": "Goed gedaan, Meadow!",
+  "tip": "warm",
+  "prioriteit": 1
+ },
+ {
+  "id": "gelukt_3",
+  "groep": "Gelukt!",
+  "tekst": "Wat heb jij goed geoefend!",
+  "tip": "trots",
+  "prioriteit": 1
+ },
+ {
+  "id": "gelukt_4",
+  "groep": "Gelukt!",
+  "tekst": "Wauw, wat mooi!",
+  "tip": "verrast",
+  "prioriteit": 2
+ },
+ {
+  "id": "gelukt_5",
+  "groep": "Gelukt!",
+  "tekst": "Hoera! Helemaal zelf!",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "gelukt_6",
+  "groep": "Gelukt!",
+  "tekst": "Super, Meadow!",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "nog_een_letter",
+  "groep": "Gelukt!",
+  "tekst": "Wil je nog een letter proberen?",
+  "tip": "vragend",
+  "prioriteit": 1
+ },
+ {
+  "id": "nog_een_keer",
+  "groep": "Gelukt!",
+  "tekst": "Wil je hem nog een keer schrijven?",
+  "tip": "vragend",
+  "prioriteit": 1
+ },
+ {
+  "id": "trofee_ster",
+  "groep": "Trofeeën verdiend",
+  "tekst": "Je krijgt een roze ster! Je eerste letter!",
+  "tip": "",
+  "prioriteit": 1
+ },
+ {
+  "id": "trofee_vlinder",
+  "groep": "Trofeeën verdiend",
+  "tekst": "Een bronzen vlinder! Al drie letters!",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "trofee_eenhoorn",
+  "groep": "Trofeeën verdiend",
+  "tekst": "Een zilveren eenhoorn! Vijf letters!",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "trofee_regenboog",
+  "groep": "Trofeeën verdiend",
+  "tekst": "Een gouden regenboog! Tien letters!",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "trofee_kroon",
+  "groep": "Trofeeën verdiend",
+  "tekst": "De diamanten alfabetkroon! Alle kleine letters!",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "trofee_beker",
+  "groep": "Trofeeën verdiend",
+  "tekst": "De magische letterkampioenbeker! Alle grote letters!",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "hoe_ster",
+  "groep": "Hoe verdien ik deze trofee?",
+  "tekst": "Schrijf je eerste letter. Dan krijg je de roze ster.",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "hoe_vlinder",
+  "groep": "Hoe verdien ik deze trofee?",
+  "tekst": "Schrijf drie letters. Dan krijg je de bronzen vlinder.",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "hoe_eenhoorn",
+  "groep": "Hoe verdien ik deze trofee?",
+  "tekst": "Schrijf vijf letters. Dan krijg je de zilveren eenhoorn.",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "hoe_regenboog",
+  "groep": "Hoe verdien ik deze trofee?",
+  "tekst": "Schrijf tien letters. Dan krijg je de gouden regenboog.",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "hoe_kroon",
+  "groep": "Hoe verdien ik deze trofee?",
+  "tekst": "Schrijf alle kleine letters. Dan krijg je de diamanten kroon.",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "hoe_beker",
+  "groep": "Hoe verdien ik deze trofee?",
+  "tekst": "Schrijf alle grote letters. Dan krijg je de kampioenbeker.",
+  "tip": "",
+  "prioriteit": 2
+ },
+ {
+  "id": "a_klank",
+  "groep": "Letter a",
+  "letter": "a",
+  "tekst": "[a]",
+  "tip": "alleen de klank, 2× met een korte pauze. kort, zoals in kat",
+  "prioriteit": 2
+ },
+ {
+  "id": "a_intro",
+  "groep": "Letter a",
+  "letter": "a",
+  "tekst": "Dit is de a van appel!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "a_woord_1",
+  "groep": "Letter a",
+  "letter": "a",
+  "tekst": "appel",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "a_woord_2",
+  "groep": "Letter a",
+  "letter": "a",
+  "tekst": "aap",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "a_woord_3",
+  "groep": "Letter a",
+  "letter": "a",
+  "tekst": "auto",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "a_groot_klaar",
+  "groep": "Letter a",
+  "letter": "a",
+  "tekst": "Je hebt de grote A geschreven!",
+  "tip": "zeg de klank: a",
+  "prioriteit": 2
+ },
+ {
+  "id": "a_klein_klaar",
+  "groep": "Letter a",
+  "letter": "a",
+  "tekst": "Je hebt de kleine a geschreven!",
+  "tip": "zeg de klank: a",
+  "prioriteit": 2
+ },
+ {
+  "id": "b_klank",
+  "groep": "Letter b",
+  "letter": "b",
+  "tekst": "[b]",
+  "tip": "alleen de klank, 2× met een korte pauze. kort, zonder ‘uh’ erachter (niet ‘buh’)",
+  "prioriteit": 2
+ },
+ {
+  "id": "b_intro",
+  "groep": "Letter b",
+  "letter": "b",
+  "tekst": "Dit is de b van bal!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "b_woord_1",
+  "groep": "Letter b",
+  "letter": "b",
+  "tekst": "bal",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "b_woord_2",
+  "groep": "Letter b",
+  "letter": "b",
+  "tekst": "beer",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "b_woord_3",
+  "groep": "Letter b",
+  "letter": "b",
+  "tekst": "boom",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "b_groot_klaar",
+  "groep": "Letter b",
+  "letter": "b",
+  "tekst": "Je hebt de grote B geschreven!",
+  "tip": "zeg de klank: b",
+  "prioriteit": 2
+ },
+ {
+  "id": "b_klein_klaar",
+  "groep": "Letter b",
+  "letter": "b",
+  "tekst": "Je hebt de kleine b geschreven!",
+  "tip": "zeg de klank: b",
+  "prioriteit": 2
+ },
+ {
+  "id": "c_klank",
+  "groep": "Letter c",
+  "letter": "c",
+  "tekst": "[k … s]",
+  "tip": "alleen de klank, 2× met een korte pauze. eerst de k-klank, dan de s-klank",
+  "prioriteit": 2
+ },
+ {
+  "id": "c_intro",
+  "groep": "Letter c",
+  "letter": "c",
+  "tekst": "Dit is de c. Die klinkt als k, van clown, of als s, van citroen!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "c_woord_1",
+  "groep": "Letter c",
+  "letter": "c",
+  "tekst": "clown",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "c_woord_2",
+  "groep": "Letter c",
+  "letter": "c",
+  "tekst": "cactus",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "c_woord_3",
+  "groep": "Letter c",
+  "letter": "c",
+  "tekst": "citroen",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "c_groot_klaar",
+  "groep": "Letter c",
+  "letter": "c",
+  "tekst": "Je hebt de grote C geschreven!",
+  "tip": "zeg de klank: k … s",
+  "prioriteit": 2
+ },
+ {
+  "id": "c_klein_klaar",
+  "groep": "Letter c",
+  "letter": "c",
+  "tekst": "Je hebt de kleine c geschreven!",
+  "tip": "zeg de klank: k … s",
+  "prioriteit": 2
+ },
+ {
+  "id": "d_klank",
+  "groep": "Letter d",
+  "letter": "d",
+  "tekst": "[d]",
+  "tip": "alleen de klank, 2× met een korte pauze. kort, zonder ‘uh’",
+  "prioriteit": 2
+ },
+ {
+  "id": "d_intro",
+  "groep": "Letter d",
+  "letter": "d",
+  "tekst": "Dit is de d van dolfijn!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "d_woord_1",
+  "groep": "Letter d",
+  "letter": "d",
+  "tekst": "dolfijn",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "d_woord_2",
+  "groep": "Letter d",
+  "letter": "d",
+  "tekst": "deur",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "d_woord_3",
+  "groep": "Letter d",
+  "letter": "d",
+  "tekst": "draak",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "d_groot_klaar",
+  "groep": "Letter d",
+  "letter": "d",
+  "tekst": "Je hebt de grote D geschreven!",
+  "tip": "zeg de klank: d",
+  "prioriteit": 2
+ },
+ {
+  "id": "d_klein_klaar",
+  "groep": "Letter d",
+  "letter": "d",
+  "tekst": "Je hebt de kleine d geschreven!",
+  "tip": "zeg de klank: d",
+  "prioriteit": 2
+ },
+ {
+  "id": "e_klank",
+  "groep": "Letter e",
+  "letter": "e",
+  "tekst": "[e]",
+  "tip": "alleen de klank, 2× met een korte pauze. kort, zoals in pen",
+  "prioriteit": 2
+ },
+ {
+  "id": "e_intro",
+  "groep": "Letter e",
+  "letter": "e",
+  "tekst": "Dit is de e van eend!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "e_woord_1",
+  "groep": "Letter e",
+  "letter": "e",
+  "tekst": "eend",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "e_woord_2",
+  "groep": "Letter e",
+  "letter": "e",
+  "tekst": "egel",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "e_woord_3",
+  "groep": "Letter e",
+  "letter": "e",
+  "tekst": "emmer",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "e_groot_klaar",
+  "groep": "Letter e",
+  "letter": "e",
+  "tekst": "Je hebt de grote E geschreven!",
+  "tip": "zeg de klank: e",
+  "prioriteit": 2
+ },
+ {
+  "id": "e_klein_klaar",
+  "groep": "Letter e",
+  "letter": "e",
+  "tekst": "Je hebt de kleine e geschreven!",
+  "tip": "zeg de klank: e",
+  "prioriteit": 2
+ },
+ {
+  "id": "f_klank",
+  "groep": "Letter f",
+  "letter": "f",
+  "tekst": "[fff]",
+  "tip": "alleen de klank, 2× met een korte pauze. aanhouden",
+  "prioriteit": 2
+ },
+ {
+  "id": "f_intro",
+  "groep": "Letter f",
+  "letter": "f",
+  "tekst": "Dit is de fff van fiets!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "f_woord_1",
+  "groep": "Letter f",
+  "letter": "f",
+  "tekst": "fiets",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "f_woord_2",
+  "groep": "Letter f",
+  "letter": "f",
+  "tekst": "fles",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "f_woord_3",
+  "groep": "Letter f",
+  "letter": "f",
+  "tekst": "flamingo",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "f_groot_klaar",
+  "groep": "Letter f",
+  "letter": "f",
+  "tekst": "Je hebt de grote F geschreven!",
+  "tip": "zeg de klank: fff",
+  "prioriteit": 2
+ },
+ {
+  "id": "f_klein_klaar",
+  "groep": "Letter f",
+  "letter": "f",
+  "tekst": "Je hebt de kleine f geschreven!",
+  "tip": "zeg de klank: fff",
+  "prioriteit": 2
+ },
+ {
+  "id": "g_klank",
+  "groep": "Letter g",
+  "letter": "g",
+  "tekst": "[ggg]",
+  "tip": "alleen de klank, 2× met een korte pauze. aanhouden, zoals in geit",
+  "prioriteit": 2
+ },
+ {
+  "id": "g_intro",
+  "groep": "Letter g",
+  "letter": "g",
+  "tekst": "Dit is de ggg van geit!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "g_woord_1",
+  "groep": "Letter g",
+  "letter": "g",
+  "tekst": "geit",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "g_woord_2",
+  "groep": "Letter g",
+  "letter": "g",
+  "tekst": "gitaar",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "g_woord_3",
+  "groep": "Letter g",
+  "letter": "g",
+  "tekst": "gieter",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "g_groot_klaar",
+  "groep": "Letter g",
+  "letter": "g",
+  "tekst": "Je hebt de grote G geschreven!",
+  "tip": "zeg de klank: ggg",
+  "prioriteit": 2
+ },
+ {
+  "id": "g_klein_klaar",
+  "groep": "Letter g",
+  "letter": "g",
+  "tekst": "Je hebt de kleine g geschreven!",
+  "tip": "zeg de klank: ggg",
+  "prioriteit": 2
+ },
+ {
+  "id": "h_klank",
+  "groep": "Letter h",
+  "letter": "h",
+  "tekst": "[h]",
+  "tip": "alleen de klank, 2× met een korte pauze. zacht, als een zuchtje",
+  "prioriteit": 2
+ },
+ {
+  "id": "h_intro",
+  "groep": "Letter h",
+  "letter": "h",
+  "tekst": "Dit is de h van hond!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "h_woord_1",
+  "groep": "Letter h",
+  "letter": "h",
+  "tekst": "hond",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "h_woord_2",
+  "groep": "Letter h",
+  "letter": "h",
+  "tekst": "huis",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "h_woord_3",
+  "groep": "Letter h",
+  "letter": "h",
+  "tekst": "hart",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "h_groot_klaar",
+  "groep": "Letter h",
+  "letter": "h",
+  "tekst": "Je hebt de grote H geschreven!",
+  "tip": "zeg de klank: h",
+  "prioriteit": 2
+ },
+ {
+  "id": "h_klein_klaar",
+  "groep": "Letter h",
+  "letter": "h",
+  "tekst": "Je hebt de kleine h geschreven!",
+  "tip": "zeg de klank: h",
+  "prioriteit": 2
+ },
+ {
+  "id": "i_klank",
+  "groep": "Letter i",
+  "letter": "i",
+  "tekst": "[i]",
+  "tip": "alleen de klank, 2× met een korte pauze. kort, zoals in vis",
+  "prioriteit": 2
+ },
+ {
+  "id": "i_intro",
+  "groep": "Letter i",
+  "letter": "i",
+  "tekst": "Dit is de i van inktvis!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "i_woord_1",
+  "groep": "Letter i",
+  "letter": "i",
+  "tekst": "inktvis",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "i_woord_2",
+  "groep": "Letter i",
+  "letter": "i",
+  "tekst": "iglo",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "i_woord_3",
+  "groep": "Letter i",
+  "letter": "i",
+  "tekst": "insect",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "i_groot_klaar",
+  "groep": "Letter i",
+  "letter": "i",
+  "tekst": "Je hebt de grote I geschreven!",
+  "tip": "zeg de klank: i",
+  "prioriteit": 2
+ },
+ {
+  "id": "i_klein_klaar",
+  "groep": "Letter i",
+  "letter": "i",
+  "tekst": "Je hebt de kleine i geschreven!",
+  "tip": "zeg de klank: i",
+  "prioriteit": 2
+ },
+ {
+  "id": "j_klank",
+  "groep": "Letter j",
+  "letter": "j",
+  "tekst": "[j]",
+  "tip": "alleen de klank, 2× met een korte pauze. zoals in jas",
+  "prioriteit": 2
+ },
+ {
+  "id": "j_intro",
+  "groep": "Letter j",
+  "letter": "j",
+  "tekst": "Dit is de j van jas!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "j_woord_1",
+  "groep": "Letter j",
+  "letter": "j",
+  "tekst": "jas",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "j_woord_2",
+  "groep": "Letter j",
+  "letter": "j",
+  "tekst": "juf",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "j_woord_3",
+  "groep": "Letter j",
+  "letter": "j",
+  "tekst": "jurk",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "j_groot_klaar",
+  "groep": "Letter j",
+  "letter": "j",
+  "tekst": "Je hebt de grote J geschreven!",
+  "tip": "zeg de klank: j",
+  "prioriteit": 2
+ },
+ {
+  "id": "j_klein_klaar",
+  "groep": "Letter j",
+  "letter": "j",
+  "tekst": "Je hebt de kleine j geschreven!",
+  "tip": "zeg de klank: j",
+  "prioriteit": 2
+ },
+ {
+  "id": "k_klank",
+  "groep": "Letter k",
+  "letter": "k",
+  "tekst": "[k]",
+  "tip": "alleen de klank, 2× met een korte pauze. kort, zonder ‘uh’",
+  "prioriteit": 2
+ },
+ {
+  "id": "k_intro",
+  "groep": "Letter k",
+  "letter": "k",
+  "tekst": "Dit is de k van kat!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "k_woord_1",
+  "groep": "Letter k",
+  "letter": "k",
+  "tekst": "kat",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "k_woord_2",
+  "groep": "Letter k",
+  "letter": "k",
+  "tekst": "kip",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "k_woord_3",
+  "groep": "Letter k",
+  "letter": "k",
+  "tekst": "kasteel",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "k_groot_klaar",
+  "groep": "Letter k",
+  "letter": "k",
+  "tekst": "Je hebt de grote K geschreven!",
+  "tip": "zeg de klank: k",
+  "prioriteit": 2
+ },
+ {
+  "id": "k_klein_klaar",
+  "groep": "Letter k",
+  "letter": "k",
+  "tekst": "Je hebt de kleine k geschreven!",
+  "tip": "zeg de klank: k",
+  "prioriteit": 2
+ },
+ {
+  "id": "l_klank",
+  "groep": "Letter l",
+  "letter": "l",
+  "tekst": "[lll]",
+  "tip": "alleen de klank, 2× met een korte pauze. aanhouden",
+  "prioriteit": 2
+ },
+ {
+  "id": "l_intro",
+  "groep": "Letter l",
+  "letter": "l",
+  "tekst": "Dit is de lll van leeuw!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "l_woord_1",
+  "groep": "Letter l",
+  "letter": "l",
+  "tekst": "leeuw",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "l_woord_2",
+  "groep": "Letter l",
+  "letter": "l",
+  "tekst": "lamp",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "l_woord_3",
+  "groep": "Letter l",
+  "letter": "l",
+  "tekst": "luchtballon",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "l_groot_klaar",
+  "groep": "Letter l",
+  "letter": "l",
+  "tekst": "Je hebt de grote L geschreven!",
+  "tip": "zeg de klank: lll",
+  "prioriteit": 2
+ },
+ {
+  "id": "l_klein_klaar",
+  "groep": "Letter l",
+  "letter": "l",
+  "tekst": "Je hebt de kleine l geschreven!",
+  "tip": "zeg de klank: lll",
+  "prioriteit": 2
+ },
+ {
+  "id": "m_klank",
+  "groep": "Letter m",
+  "letter": "m",
+  "tekst": "[mmm]",
+  "tip": "alleen de klank, 2× met een korte pauze. aanhouden",
+  "prioriteit": 2
+ },
+ {
+  "id": "m_intro",
+  "groep": "Letter m",
+  "letter": "m",
+  "tekst": "Dit is de mmm van maan!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "m_woord_1",
+  "groep": "Letter m",
+  "letter": "m",
+  "tekst": "maan",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "m_woord_2",
+  "groep": "Letter m",
+  "letter": "m",
+  "tekst": "muis",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "m_woord_3",
+  "groep": "Letter m",
+  "letter": "m",
+  "tekst": "melk",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "m_groot_klaar",
+  "groep": "Letter m",
+  "letter": "m",
+  "tekst": "Je hebt de grote M geschreven!",
+  "tip": "zeg de klank: mmm",
+  "prioriteit": 2
+ },
+ {
+  "id": "m_klein_klaar",
+  "groep": "Letter m",
+  "letter": "m",
+  "tekst": "Je hebt de kleine m geschreven!",
+  "tip": "zeg de klank: mmm",
+  "prioriteit": 2
+ },
+ {
+  "id": "n_klank",
+  "groep": "Letter n",
+  "letter": "n",
+  "tekst": "[nnn]",
+  "tip": "alleen de klank, 2× met een korte pauze. aanhouden",
+  "prioriteit": 2
+ },
+ {
+  "id": "n_intro",
+  "groep": "Letter n",
+  "letter": "n",
+  "tekst": "Dit is de nnn van neus!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "n_woord_1",
+  "groep": "Letter n",
+  "letter": "n",
+  "tekst": "neus",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "n_woord_2",
+  "groep": "Letter n",
+  "letter": "n",
+  "tekst": "nest",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "n_woord_3",
+  "groep": "Letter n",
+  "letter": "n",
+  "tekst": "noot",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "n_groot_klaar",
+  "groep": "Letter n",
+  "letter": "n",
+  "tekst": "Je hebt de grote N geschreven!",
+  "tip": "zeg de klank: nnn",
+  "prioriteit": 2
+ },
+ {
+  "id": "n_klein_klaar",
+  "groep": "Letter n",
+  "letter": "n",
+  "tekst": "Je hebt de kleine n geschreven!",
+  "tip": "zeg de klank: nnn",
+  "prioriteit": 2
+ },
+ {
+  "id": "o_klank",
+  "groep": "Letter o",
+  "letter": "o",
+  "tekst": "[o]",
+  "tip": "alleen de klank, 2× met een korte pauze. kort, zoals in pop",
+  "prioriteit": 2
+ },
+ {
+  "id": "o_intro",
+  "groep": "Letter o",
+  "letter": "o",
+  "tekst": "Dit is de o van olifant!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "o_woord_1",
+  "groep": "Letter o",
+  "letter": "o",
+  "tekst": "olifant",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "o_woord_2",
+  "groep": "Letter o",
+  "letter": "o",
+  "tekst": "oog",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "o_woord_3",
+  "groep": "Letter o",
+  "letter": "o",
+  "tekst": "oma",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "o_groot_klaar",
+  "groep": "Letter o",
+  "letter": "o",
+  "tekst": "Je hebt de grote O geschreven!",
+  "tip": "zeg de klank: o",
+  "prioriteit": 2
+ },
+ {
+  "id": "o_klein_klaar",
+  "groep": "Letter o",
+  "letter": "o",
+  "tekst": "Je hebt de kleine o geschreven!",
+  "tip": "zeg de klank: o",
+  "prioriteit": 2
+ },
+ {
+  "id": "p_klank",
+  "groep": "Letter p",
+  "letter": "p",
+  "tekst": "[p]",
+  "tip": "alleen de klank, 2× met een korte pauze. kort, zonder ‘uh’",
+  "prioriteit": 2
+ },
+ {
+  "id": "p_intro",
+  "groep": "Letter p",
+  "letter": "p",
+  "tekst": "Dit is de p van poes!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "p_woord_1",
+  "groep": "Letter p",
+  "letter": "p",
+  "tekst": "poes",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "p_woord_2",
+  "groep": "Letter p",
+  "letter": "p",
+  "tekst": "paard",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "p_woord_3",
+  "groep": "Letter p",
+  "letter": "p",
+  "tekst": "peer",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "p_groot_klaar",
+  "groep": "Letter p",
+  "letter": "p",
+  "tekst": "Je hebt de grote P geschreven!",
+  "tip": "zeg de klank: p",
+  "prioriteit": 2
+ },
+ {
+  "id": "p_klein_klaar",
+  "groep": "Letter p",
+  "letter": "p",
+  "tekst": "Je hebt de kleine p geschreven!",
+  "tip": "zeg de klank: p",
+  "prioriteit": 2
+ },
+ {
+  "id": "q_klank",
+  "groep": "Letter q",
+  "letter": "q",
+  "tekst": "[kw]",
+  "tip": "alleen de klank, 2× met een korte pauze. de q staat bijna altijd met de u: qu",
+  "prioriteit": 2
+ },
+ {
+  "id": "q_intro",
+  "groep": "Letter q",
+  "letter": "q",
+  "tekst": "Dit is de q. Die zie je bijna altijd samen met de u. Van quiz!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "q_woord_1",
+  "groep": "Letter q",
+  "letter": "q",
+  "tekst": "quiz",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "q_woord_2",
+  "groep": "Letter q",
+  "letter": "q",
+  "tekst": "quad",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "q_woord_3",
+  "groep": "Letter q",
+  "letter": "q",
+  "tekst": "quiche",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "q_groot_klaar",
+  "groep": "Letter q",
+  "letter": "q",
+  "tekst": "Je hebt de grote Q geschreven!",
+  "tip": "zeg de klank: kw",
+  "prioriteit": 2
+ },
+ {
+  "id": "q_klein_klaar",
+  "groep": "Letter q",
+  "letter": "q",
+  "tekst": "Je hebt de kleine q geschreven!",
+  "tip": "zeg de klank: kw",
+  "prioriteit": 2
+ },
+ {
+  "id": "r_klank",
+  "groep": "Letter r",
+  "letter": "r",
+  "tekst": "[rrr]",
+  "tip": "alleen de klank, 2× met een korte pauze. aanhouden",
+  "prioriteit": 2
+ },
+ {
+  "id": "r_intro",
+  "groep": "Letter r",
+  "letter": "r",
+  "tekst": "Dit is de rrr van roos!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "r_woord_1",
+  "groep": "Letter r",
+  "letter": "r",
+  "tekst": "roos",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "r_woord_2",
+  "groep": "Letter r",
+  "letter": "r",
+  "tekst": "raket",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "r_woord_3",
+  "groep": "Letter r",
+  "letter": "r",
+  "tekst": "regenboog",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "r_groot_klaar",
+  "groep": "Letter r",
+  "letter": "r",
+  "tekst": "Je hebt de grote R geschreven!",
+  "tip": "zeg de klank: rrr",
+  "prioriteit": 2
+ },
+ {
+  "id": "r_klein_klaar",
+  "groep": "Letter r",
+  "letter": "r",
+  "tekst": "Je hebt de kleine r geschreven!",
+  "tip": "zeg de klank: rrr",
+  "prioriteit": 2
+ },
+ {
+  "id": "s_klank",
+  "groep": "Letter s",
+  "letter": "s",
+  "tekst": "[sss]",
+  "tip": "alleen de klank, 2× met een korte pauze. aanhouden",
+  "prioriteit": 2
+ },
+ {
+  "id": "s_intro",
+  "groep": "Letter s",
+  "letter": "s",
+  "tekst": "Dit is de sss van slang!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "s_woord_1",
+  "groep": "Letter s",
+  "letter": "s",
+  "tekst": "slang",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "s_woord_2",
+  "groep": "Letter s",
+  "letter": "s",
+  "tekst": "ster",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "s_woord_3",
+  "groep": "Letter s",
+  "letter": "s",
+  "tekst": "sok",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "s_groot_klaar",
+  "groep": "Letter s",
+  "letter": "s",
+  "tekst": "Je hebt de grote S geschreven!",
+  "tip": "zeg de klank: sss",
+  "prioriteit": 2
+ },
+ {
+  "id": "s_klein_klaar",
+  "groep": "Letter s",
+  "letter": "s",
+  "tekst": "Je hebt de kleine s geschreven!",
+  "tip": "zeg de klank: sss",
+  "prioriteit": 2
+ },
+ {
+  "id": "t_klank",
+  "groep": "Letter t",
+  "letter": "t",
+  "tekst": "[t]",
+  "tip": "alleen de klank, 2× met een korte pauze. kort, zonder ‘uh’",
+  "prioriteit": 2
+ },
+ {
+  "id": "t_intro",
+  "groep": "Letter t",
+  "letter": "t",
+  "tekst": "Dit is de t van trein!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "t_woord_1",
+  "groep": "Letter t",
+  "letter": "t",
+  "tekst": "trein",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "t_woord_2",
+  "groep": "Letter t",
+  "letter": "t",
+  "tekst": "taart",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "t_woord_3",
+  "groep": "Letter t",
+  "letter": "t",
+  "tekst": "tijger",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "t_groot_klaar",
+  "groep": "Letter t",
+  "letter": "t",
+  "tekst": "Je hebt de grote T geschreven!",
+  "tip": "zeg de klank: t",
+  "prioriteit": 2
+ },
+ {
+  "id": "t_klein_klaar",
+  "groep": "Letter t",
+  "letter": "t",
+  "tekst": "Je hebt de kleine t geschreven!",
+  "tip": "zeg de klank: t",
+  "prioriteit": 2
+ },
+ {
+  "id": "u_klank",
+  "groep": "Letter u",
+  "letter": "u",
+  "tekst": "[u]",
+  "tip": "alleen de klank, 2× met een korte pauze. kort, zoals in bus",
+  "prioriteit": 2
+ },
+ {
+  "id": "u_intro",
+  "groep": "Letter u",
+  "letter": "u",
+  "tekst": "Dit is de u van uil!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "u_woord_1",
+  "groep": "Letter u",
+  "letter": "u",
+  "tekst": "uil",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "u_woord_2",
+  "groep": "Letter u",
+  "letter": "u",
+  "tekst": "ui",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "u_woord_3",
+  "groep": "Letter u",
+  "letter": "u",
+  "tekst": "uniform",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "u_groot_klaar",
+  "groep": "Letter u",
+  "letter": "u",
+  "tekst": "Je hebt de grote U geschreven!",
+  "tip": "zeg de klank: u",
+  "prioriteit": 2
+ },
+ {
+  "id": "u_klein_klaar",
+  "groep": "Letter u",
+  "letter": "u",
+  "tekst": "Je hebt de kleine u geschreven!",
+  "tip": "zeg de klank: u",
+  "prioriteit": 2
+ },
+ {
+  "id": "v_klank",
+  "groep": "Letter v",
+  "letter": "v",
+  "tekst": "[vvv]",
+  "tip": "alleen de klank, 2× met een korte pauze. aanhouden",
+  "prioriteit": 2
+ },
+ {
+  "id": "v_intro",
+  "groep": "Letter v",
+  "letter": "v",
+  "tekst": "Dit is de vvv van vis!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "v_woord_1",
+  "groep": "Letter v",
+  "letter": "v",
+  "tekst": "vis",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "v_woord_2",
+  "groep": "Letter v",
+  "letter": "v",
+  "tekst": "vlinder",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "v_woord_3",
+  "groep": "Letter v",
+  "letter": "v",
+  "tekst": "vogel",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "v_groot_klaar",
+  "groep": "Letter v",
+  "letter": "v",
+  "tekst": "Je hebt de grote V geschreven!",
+  "tip": "zeg de klank: vvv",
+  "prioriteit": 2
+ },
+ {
+  "id": "v_klein_klaar",
+  "groep": "Letter v",
+  "letter": "v",
+  "tekst": "Je hebt de kleine v geschreven!",
+  "tip": "zeg de klank: vvv",
+  "prioriteit": 2
+ },
+ {
+  "id": "w_klank",
+  "groep": "Letter w",
+  "letter": "w",
+  "tekst": "[www]",
+  "tip": "alleen de klank, 2× met een korte pauze. aanhouden",
+  "prioriteit": 2
+ },
+ {
+  "id": "w_intro",
+  "groep": "Letter w",
+  "letter": "w",
+  "tekst": "Dit is de www van wolk!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "w_woord_1",
+  "groep": "Letter w",
+  "letter": "w",
+  "tekst": "wolk",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "w_woord_2",
+  "groep": "Letter w",
+  "letter": "w",
+  "tekst": "water",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "w_woord_3",
+  "groep": "Letter w",
+  "letter": "w",
+  "tekst": "walvis",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "w_groot_klaar",
+  "groep": "Letter w",
+  "letter": "w",
+  "tekst": "Je hebt de grote W geschreven!",
+  "tip": "zeg de klank: www",
+  "prioriteit": 2
+ },
+ {
+  "id": "w_klein_klaar",
+  "groep": "Letter w",
+  "letter": "w",
+  "tekst": "Je hebt de kleine w geschreven!",
+  "tip": "zeg de klank: www",
+  "prioriteit": 2
+ },
+ {
+  "id": "x_klank",
+  "groep": "Letter x",
+  "letter": "x",
+  "tekst": "[ks]",
+  "tip": "alleen de klank, 2× met een korte pauze. zoals in taxi",
+  "prioriteit": 2
+ },
+ {
+  "id": "x_intro",
+  "groep": "Letter x",
+  "letter": "x",
+  "tekst": "Dit is de x. Die klinkt als ks, van taxi!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "x_woord_1",
+  "groep": "Letter x",
+  "letter": "x",
+  "tekst": "xylofoon",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "x_woord_2",
+  "groep": "Letter x",
+  "letter": "x",
+  "tekst": "taxi",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "x_woord_3",
+  "groep": "Letter x",
+  "letter": "x",
+  "tekst": "saxofoon",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "x_groot_klaar",
+  "groep": "Letter x",
+  "letter": "x",
+  "tekst": "Je hebt de grote X geschreven!",
+  "tip": "zeg de klank: ks",
+  "prioriteit": 2
+ },
+ {
+  "id": "x_klein_klaar",
+  "groep": "Letter x",
+  "letter": "x",
+  "tekst": "Je hebt de kleine x geschreven!",
+  "tip": "zeg de klank: ks",
+  "prioriteit": 2
+ },
+ {
+  "id": "y_klank",
+  "groep": "Letter y",
+  "letter": "y",
+  "tekst": "[j]",
+  "tip": "alleen de klank, 2× met een korte pauze. in deze woorden klinkt de y als j",
+  "prioriteit": 2
+ },
+ {
+  "id": "y_intro",
+  "groep": "Letter y",
+  "letter": "y",
+  "tekst": "Dit is de y. Die klinkt hier als j, van yoga!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "y_woord_1",
+  "groep": "Letter y",
+  "letter": "y",
+  "tekst": "yoga",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "y_woord_2",
+  "groep": "Letter y",
+  "letter": "y",
+  "tekst": "yoghurt",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "y_woord_3",
+  "groep": "Letter y",
+  "letter": "y",
+  "tekst": "yeti",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "y_groot_klaar",
+  "groep": "Letter y",
+  "letter": "y",
+  "tekst": "Je hebt de grote Y geschreven!",
+  "tip": "zeg de klank: j",
+  "prioriteit": 2
+ },
+ {
+  "id": "y_klein_klaar",
+  "groep": "Letter y",
+  "letter": "y",
+  "tekst": "Je hebt de kleine y geschreven!",
+  "tip": "zeg de klank: j",
+  "prioriteit": 2
+ },
+ {
+  "id": "z_klank",
+  "groep": "Letter z",
+  "letter": "z",
+  "tekst": "[zzz]",
+  "tip": "alleen de klank, 2× met een korte pauze. aanhouden",
+  "prioriteit": 2
+ },
+ {
+  "id": "z_intro",
+  "groep": "Letter z",
+  "letter": "z",
+  "tekst": "Dit is de zzz van zebra!",
+  "tip": "zeg de klank, niet de letternaam",
+  "prioriteit": 2
+ },
+ {
+  "id": "z_woord_1",
+  "groep": "Letter z",
+  "letter": "z",
+  "tekst": "zebra",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "z_woord_2",
+  "groep": "Letter z",
+  "letter": "z",
+  "tekst": "zon",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "z_woord_3",
+  "groep": "Letter z",
+  "letter": "z",
+  "tekst": "zee",
+  "tip": "duidelijk, net iets langzamer dan normaal",
+  "prioriteit": 2
+ },
+ {
+  "id": "z_groot_klaar",
+  "groep": "Letter z",
+  "letter": "z",
+  "tekst": "Je hebt de grote Z geschreven!",
+  "tip": "zeg de klank: zzz",
+  "prioriteit": 2
+ },
+ {
+  "id": "z_klein_klaar",
+  "groep": "Letter z",
+  "letter": "z",
+  "tekst": "Je hebt de kleine z geschreven!",
+  "tip": "zeg de klank: zzz",
+  "prioriteit": 2
+ }
+]
